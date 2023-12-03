@@ -1,6 +1,6 @@
 # Lorem ipsum
 
-$$E=mc^2$$
+$E=mc^2$
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed scelerisque mi in nisi consectetur luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce ipsum risus, cursus ut eros a, mattis commodo tortor. Duis ut arcu eget est egestas tincidunt porta quis arcu. Sed sed venenatis urna. Mauris consectetur sem non magna ullamcorper, a accumsan risus mollis. Quisque vel tristique risus, bibendum sagittis leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vitae magna leo. Nunc ultrices posuere nisl commodo elementum. Sed gravida nulla posuere dui fermentum luctus. Integer tempus mauris ligula, id lacinia tellus laoreet sed.
 
