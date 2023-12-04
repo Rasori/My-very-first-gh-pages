@@ -2,3 +2,5 @@ theme: minima
 title: lorem ipsum
 author: Waltteri Koskinen
 description: Something interesting
+kramdown:
+  math_engine: mathjax
